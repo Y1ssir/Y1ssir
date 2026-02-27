@@ -6,7 +6,10 @@ I am a passionate student documenting my journey in Artificial Intelligence and 
 
 - 🔭 **Current Focus:** Deepening my skills in Artificial Intelligence and Cyber Security.
 - 💻 **Tech Stack:** Python, Java, SQL (PostgreSQL)
-- 📫 **Reach out:** [LinkedIn](https://www.linkedin.com/in/yassir-jaber) | [Email](mailto:yassirjaber4@gmail.com)<a href="mailto:yassirjaber4@gmail.com" target="_blank" rel="noreferrer">
+- 📫 **Reach out:**
+  <a href="https://www.linkedin.com/in/yassir-jaber" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassir jaber" height="30" width="40" />
+  </a> | <a href="mailto:yassirjaber4@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" width="20" height="20"/>
   </a>
 
@@ -21,11 +24,6 @@ I am a passionate student documenting my journey in Artificial Intelligence and 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yassir-jaber" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassir jaber" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
