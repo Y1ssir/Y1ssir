@@ -33,7 +33,5 @@ I am a passionate student documenting my journey in Artificial Intelligence and 
 
 <h3 align="center">📊 GitHub Statistics</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Y1ssir&show_icons=true&theme=tokyonight&count_private=true" alt="Yassir's GitHub stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y1ssir&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="animation.gif" width="300">
 </p>
