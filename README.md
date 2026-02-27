@@ -8,7 +8,7 @@ I am a passionate student documenting my journey in Artificial Intelligence and 
 - 💻 **Tech Stack:** Python, Java, SQL (PostgreSQL)
 <h3 align="center">📫 **Reach out:**</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/yassir-jaber" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" />
   </a>
