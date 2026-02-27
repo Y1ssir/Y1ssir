@@ -10,7 +10,7 @@ I am a passionate student documenting my journey in Artificial Intelligence and 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yassir-jaber" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:yassirjaber4@gmail.com" target="_blank" rel="noreferrer">
