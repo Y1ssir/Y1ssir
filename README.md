@@ -33,5 +33,5 @@ I am a passionate student documenting my journey in Artificial Intelligence and 
 
 <h3 align="center">📊 GitHub Statistics</h3>
 <p align="center">
-  <img src="page Loading.gif" width="300">
+  <img src="loading.gif" width="300">
 </p>
