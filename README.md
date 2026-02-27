@@ -1,6 +1,6 @@
 # Hi, I'm Yassir Jaber
 
-### 🚀 AI & Cybersecurity Engineering Student @ ENSA Béni Mellal
+### AI & Cybersecurity Engineering Student @ ENSA Béni Mellal
 
 I am a passionate student documenting my journey in Artificial Intelligence and Cyber Security. I use this space to showcase my academic projects and personal development.
 
