@@ -6,7 +6,7 @@ I am a passionate student documenting my journey in Artificial Intelligence and 
 
 - 🔭 **Current Focus:** Deepening my skills in Artificial Intelligence and Cyber Security.
 - 💻 **Tech Stack:** Python, Java, SQL (PostgreSQL)
-- 📫 **Reach out:**
+<h3 align="center">📫 **Reach out:**</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yassir-jaber" target="_blank">
