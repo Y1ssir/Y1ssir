@@ -6,7 +6,7 @@ I am a passionate student documenting my journey in Artificial Intelligence and 
 
 - 🔭 **Current Focus:** Deepening my skills in Machine Learning and Backend Security.
 - 💻 **Tech Stack:** Python, Java, SQL (PostgreSQL)
-- 📫 **Reach out:** [Email](yassirjaber4@gmail.com)
+- 📫 **Reach out:** [Email] (yassirjaber4@gmail.com)
 
 ### 🛠 Languages and Tools
 ![Python]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://www.clipsafari.com/clips/o248484-python-logo))
