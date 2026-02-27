@@ -8,16 +8,15 @@ I am a passionate student documenting my journey in Artificial Intelligence and 
 - 💻 **Tech Stack:** Python, Java, SQL (PostgreSQL)
 - 📫 **Reach out:**
 
-  <p align="center">
-  <a href="https://www.linkedin.com/in/yassir-jaber" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassir jaber" height="20" width="20" </a>
-</p>
-  <p align="center">
-  </a> | <a href="mailto:yassirjaber4@gmail.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" width="20" height="20"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/yassir-jaber" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" />
   </a>
-  </p>
-
+  &nbsp;&nbsp;
+  <a href="mailto:yassirjaber4@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="25" height="25"/>
+  </a>
+</p>
 ---
 
 <h3 align="center">🛠 Languages and Tools</h3>
