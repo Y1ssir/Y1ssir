@@ -1,4 +1,4 @@
-# Hi, I'm Yassir Jaber 👋
+# Hi, I'm Yassir Jaber
 
 ### 🚀 AI & Cybersecurity Engineering Student @ ENSA Béni Mellal
 
