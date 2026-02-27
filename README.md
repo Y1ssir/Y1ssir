@@ -17,7 +17,7 @@ I am a passionate student documenting my journey in Artificial Intelligence and 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
----
+<h3 align="center">---</h3>
 
 <h3 align="center">🛠 Languages and Tools</h3>
 <p align="center">
